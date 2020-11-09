@@ -1,0 +1,40 @@
+{
+	"singers": [{
+			"name": "Diljit Dosanjh",
+			"photo": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/diljit_dosanjh_22800_29-07-2016_07-22-10.jpg"
+		},
+		{
+			"name": "Karan Aujla",
+			"photo": "https://i.pinimg.com/564x/a3/69/9b/a3699bfe26fcc2346be6b5cda7f51553.jpg"
+		},
+		{
+			"name": "Ritviz",
+			"photo": "https://static.businessworld.in/article/article_extra_large_image/1582715732_ak6oei_maxresdefault_1_.jpg"
+		},
+		{
+			"name": "Jass Manak",
+			"photo": "https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/02/Jass-Manak-smiling.jpg"
+		},
+		{
+			"name": "Arijit singh",
+			"photo": "https://www.aajabhi.com/wp-content/uploads/2020/04/Arijit-Singh.jpg"
+		},
+		{
+			"name": "Sidhu Moosewala",
+			"photo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sidhu_in_Punjab.jpg"
+		},
+		{
+			"name": "Honey singh",
+			"photo": "https://i.pinimg.com/originals/96/16/e9/9616e95e237ca8d52a2246e522b7da69.jpg"
+		},
+		{
+			"name": "Guru Randhawa",
+			"photo": "https://www.thestatesman.com/wp-content/uploads/2018/08/Guru-Randhawa-1024x571.jpg"
+		},
+		{
+			"name": "Enrique",
+			"photo": "https://nycmonthly.com/wp-content/uploads/2017/06/Enrique-Iglesias.png"
+		}
+
+	]
+}
